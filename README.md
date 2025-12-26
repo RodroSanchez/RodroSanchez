@@ -20,7 +20,7 @@ QA Engineer con experiencia en puestos gerenciales y de ventas. Enfocado en prov
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Acerca de mí
 
 >[!TIP]
->"Un evaluador es tan bueno como los casos de prueba que se le ocurren". - Cem Kaner
+>"Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
 
 ### 🛠️ Mis habilidades
 ## 🛠️ Mis habilidades
@@ -30,8 +30,6 @@ QA Engineer con experiencia en puestos gerenciales y de ventas. Enfocado en prov
 **Idiomas**  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
-**Software y herramientas**
 
 **Software y herramientas**  
 
@@ -45,15 +43,11 @@ QA Engineer con experiencia en puestos gerenciales y de ventas. Enfocado en prov
 ![Json](https://img.shields.io/badge/json-%23121011.svg?style=for-the-badge&logo=json&logoColor=white)&nbsp;
 ![Google Sheets](https://img.shields.io/badge/GoogleSheets-%234ea94b.svg?style=for-the-badge&logo=GoogleSheets&logoColor=white)&nbsp;
  
-
-**IDEs**  
 **IDEs**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jetbrains](https://img.shields.io/badge/jetbrains-%23121011.svg?style=for-the-badge&logo=jetbrains&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/androidstudio-%234ea94b.svg?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;
-
-## 🧪 QA Experiencia & Proyectos
 
 ### 🧪 QA Experiencia & Proyectos
 
@@ -90,12 +84,11 @@ Plataforma de entrega de comestibles en línea con gestión de inventario.
 
 Plataforma web social para compartir fotos y experiencias.
 
-### 📫 Contacto
 - Pruebas funcionales y de regresión
 - Validación de UI y consistencia de UX
 - Informes de errores y documentación de pruebas
 
-## 📫 Contacto
+### 📫 Contacto
 
 - 📧 Email: **rodrigo.sanchezd24@outlook.com  **
 - 💼 LinkedIn: [www.linkedin.com/in/rodrigo-sanchez24
