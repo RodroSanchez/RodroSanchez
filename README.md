@@ -2,7 +2,7 @@
 <h2 align="center">
   
   Bienvenido soy Rodrigo Sanchez !
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+![header](https://media.licdn.com/dms/image/v2/D4E16AQH4QnwPo02xdw/profile-displaybackgroundimage-shrink_350_1400/B4EZtJEefnJ0AY-/0/1766457469445?e=1768435200&v=beta&t=aDYhWYGS4RLjUT1o8gk4dgVRhdBDkgdnnN_nSvGwuUk)
 
   </h2>
   <h3 align="left">
