@@ -23,8 +23,6 @@ QA Engineer con experiencia en puestos gerenciales y de ventas. Enfocado en prov
 
 ### 🛠️ Mis habilidades
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-
 **Idiomas**  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
