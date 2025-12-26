@@ -17,13 +17,11 @@ src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true
 </center>
 
 QA Engineer con experiencia en puestos gerenciales y de ventas. Enfocado en proveer resoluciones confiables, estables y de alta calidad a través de pruebas estructuradas, documentación clara y una sólida colaboración con los equipos de desarrollo.
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Acerca de mí
 
 >[!TIP]
 >"Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
 
 ### 🛠️ Mis habilidades
-## 🛠️ Mis habilidades
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
