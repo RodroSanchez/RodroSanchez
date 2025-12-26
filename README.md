@@ -47,8 +47,6 @@ QA Engineer con experiencia en puestos gerenciales y de ventas. Enfocado en prov
 
 ### 🧪 QA Experiencia & Proyectos
 
-### 🛒 URBAN GROCERS — Plataforma E-commerce
-
 ### 🌐 AROUND — Aplicación web
 
 Plataforma web social para compartir fotos y experiencias.
@@ -56,19 +54,14 @@ Plataforma web social para compartir fotos y experiencias.
 - Pruebas funcionales y de regresión
 - Validación de UI y consistencia de UX
 - Informes de errores y documentación de pruebas
-Plataforma de entrega de comestibles en línea con gestión de inventario.
-
-- Pruebas de API y validación de puntos finales
-- Pruebas de integración de frontend–backend
-- Validación del flujo de caja e inventario
 
 ### 🚗 URBAN ROUTES — Aplicación de Transporte
 
-@@ -73,18 +62,15 @@ Aplicación para compartir viajes con flujos de reserva, pago y cancelación.
+Aplicación para compartir viajes con flujos de reserva, pago y cancelación.
+- Análisis de requisitos
+- Diseño avanzado de casos de prueba
 - Pruebas entre navegadores
 - Validación de flujo crítico
-
-### 🌐 AROUND — Aplicación web
 
 ### 🛒 URBAN GROCERS — Plataforma E-commerce 
 
@@ -78,11 +71,7 @@ Plataforma de entrega de comestibles en línea con gestión de inventario.
 - Pruebas de integración de frontend–backend
 - Validación del flujo de caja e inventario
 
-Plataforma web social para compartir fotos y experiencias.
 
-- Pruebas funcionales y de regresión
-- Validación de UI y consistencia de UX
-- Informes de errores y documentación de pruebas
 
 ### 📫 Contacto
 
