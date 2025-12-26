@@ -1,7 +1,7 @@
 # Rodrigo Sanchez
 <h2 align="center">
   
-  Bienvenido soy Rodrigo Sanchez ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Bienvenido soy Rodrigo Sanchez !
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
   </h2>
@@ -77,5 +77,3 @@ Plataforma de entrega de comestibles en línea con gestión de inventario.
 
 - 📧 Email: **rodrigo.sanchezd24@outlook.com  **
 - 💼 LinkedIn: [www.linkedin.com/in/rodrigo-sanchez24
-
-)
