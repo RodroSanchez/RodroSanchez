@@ -1,10 +1,7 @@
 # Rodrigo Sanchez
-@@ -1,68 +1,57 @@
 <h2 align="center">
   
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-  
-  Bienvenido soy Axel Arteaga ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Bienvenido soy Rodrigo Sanchez ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
   </h2>
@@ -14,20 +11,17 @@ src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true
 </h3>
 <center>
 
-# Bienvenido soy Axel ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Bienvenido soy Rodrigo ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 </center>
 
-QA con experiencia en áreas administrativas. Centrado en ofrecer software confiable, estable y de alta calidad a través de pruebas estructuradas, documentación clara y una sólida colaboración con los equipos de desarrollo.
+QA Engineer con experiencia en puestos gerenciales y de ventas. Enfocado en proveer resoluciones confiables, estables y de alta calidad a través de pruebas estructuradas, documentación clara y una sólida colaboración con los equipos de desarrollo.
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Acerca de mí
 
 >[!TIP]
 >"Un evaluador es tan bueno como los casos de prueba que se le ocurren". - Cem Kaner
 QA con experiencia en áreas administrativas. Centrado en ofrecer software confiable, estable y de alta calidad a través de pruebas estructuradas, documentación clara y una sólida colaboración con los equipos de desarrollo.
-
-> [!TIP]
-> "Un evaluador es tan bueno como los casos de prueba que se le ocurren". - Cem Kaner
 
 ### 🛠️ Mis habilidades
 ## 🛠️ Mis habilidades
@@ -35,7 +29,6 @@ QA con experiencia en áreas administrativas. Centrado en ofrecer software confi
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 **Idiomas**  
-**Idiomas**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -112,5 +105,7 @@ Plataforma web social para compartir fotos y experiencias.
 
 ## 📫 Contacto
 
-- 📧 Email: **axelarteaga21@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/axel-arteaga](https://www.linkedin.com/in/axel-arteaga)
+- 📧 Email: **rodrigo.sanchezd24@outlook.com  **
+- 💼 LinkedIn: [www.linkedin.com/in/rodrigo-sanchez24
+
+)
